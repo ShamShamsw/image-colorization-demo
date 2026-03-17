@@ -1,0 +1,473 @@
+[
+  {
+    "event_type": "colorization_session",
+    "payload": {
+      "session_id": "20260317_230829",
+      "strategy": "adaptive_blend",
+      "pixels_processed": 1536,
+      "mean_pixel_error": 0.117837,
+      "psnr_estimate": 17.181169
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 1,
+      "strategy": "adaptive_blend",
+      "x": 0,
+      "y": 0,
+      "intensity": 144,
+      "predicted_rgb": [
+        154,
+        147,
+        149
+      ],
+      "reference_rgb": [
+        137,
+        106,
+        95
+      ],
+      "pixel_error": 0.146405,
+      "cumulative_error": 0.146405
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 77,
+      "strategy": "adaptive_blend",
+      "x": 28,
+      "y": 1,
+      "intensity": 145,
+      "predicted_rgb": [
+        155,
+        148,
+        150
+      ],
+      "reference_rgb": [
+        138,
+        107,
+        96
+      ],
+      "pixel_error": 0.146405,
+      "cumulative_error": 9.313725
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 153,
+      "strategy": "adaptive_blend",
+      "x": 8,
+      "y": 3,
+      "intensity": 168,
+      "predicted_rgb": [
+        183,
+        170,
+        170
+      ],
+      "reference_rgb": [
+        158,
+        123,
+        110
+      ],
+      "pixel_error": 0.172549,
+      "cumulative_error": 18.594771
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 229,
+      "strategy": "adaptive_blend",
+      "x": 36,
+      "y": 4,
+      "intensity": 122,
+      "predicted_rgb": [
+        129,
+        126,
+        131
+      ],
+      "reference_rgb": [
+        119,
+        91,
+        81
+      ],
+      "pixel_error": 0.124183,
+      "cumulative_error": 27.771242
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 305,
+      "strategy": "adaptive_blend",
+      "x": 16,
+      "y": 6,
+      "intensity": 39,
+      "predicted_rgb": [
+        43,
+        48,
+        55
+      ],
+      "reference_rgb": [
+        49,
+        34,
+        29
+      ],
+      "pixel_error": 0.060131,
+      "cumulative_error": 35.861438
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 381,
+      "strategy": "adaptive_blend",
+      "x": 44,
+      "y": 7,
+      "intensity": 78,
+      "predicted_rgb": [
+        82,
+        85,
+        91
+      ],
+      "reference_rgb": [
+        82,
+        61,
+        54
+      ],
+      "pixel_error": 0.079739,
+      "cumulative_error": 44.741176
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 457,
+      "strategy": "adaptive_blend",
+      "x": 24,
+      "y": 9,
+      "intensity": 166,
+      "predicted_rgb": [
+        180,
+        168,
+        167
+      ],
+      "reference_rgb": [
+        156,
+        121,
+        109
+      ],
+      "pixel_error": 0.168627,
+      "cumulative_error": 52.899346
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 533,
+      "strategy": "adaptive_blend",
+      "x": 4,
+      "y": 11,
+      "intensity": 56,
+      "predicted_rgb": [
+        60,
+        64,
+        71
+      ],
+      "reference_rgb": [
+        64,
+        46,
+        40
+      ],
+      "pixel_error": 0.069281,
+      "cumulative_error": 61.766013
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 609,
+      "strategy": "adaptive_blend",
+      "x": 32,
+      "y": 12,
+      "intensity": 59,
+      "predicted_rgb": [
+        62,
+        67,
+        74
+      ],
+      "reference_rgb": [
+        66,
+        48,
+        42
+      ],
+      "pixel_error": 0.071895,
+      "cumulative_error": 70.108497
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 685,
+      "strategy": "adaptive_blend",
+      "x": 12,
+      "y": 14,
+      "intensity": 87,
+      "predicted_rgb": [
+        91,
+        94,
+        100
+      ],
+      "reference_rgb": [
+        90,
+        67,
+        59
+      ],
+      "pixel_error": 0.090196,
+      "cumulative_error": 78.454902
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 761,
+      "strategy": "adaptive_blend",
+      "x": 40,
+      "y": 15,
+      "intensity": 143,
+      "predicted_rgb": [
+        153,
+        146,
+        149
+      ],
+      "reference_rgb": [
+        137,
+        106,
+        95
+      ],
+      "pixel_error": 0.143791,
+      "cumulative_error": 86.89281
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 837,
+      "strategy": "adaptive_blend",
+      "x": 20,
+      "y": 17,
+      "intensity": 158,
+      "predicted_rgb": [
+        171,
+        160,
+        161
+      ],
+      "reference_rgb": [
+        149,
+        116,
+        104
+      ],
+      "pixel_error": 0.160784,
+      "cumulative_error": 96.656209
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 913,
+      "strategy": "adaptive_blend",
+      "x": 0,
+      "y": 19,
+      "intensity": 56,
+      "predicted_rgb": [
+        60,
+        64,
+        71
+      ],
+      "reference_rgb": [
+        64,
+        46,
+        40
+      ],
+      "pixel_error": 0.069281,
+      "cumulative_error": 105.658824
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 989,
+      "strategy": "adaptive_blend",
+      "x": 28,
+      "y": 20,
+      "intensity": 67,
+      "predicted_rgb": [
+        70,
+        74,
+        81
+      ],
+      "reference_rgb": [
+        73,
+        53,
+        47
+      ],
+      "pixel_error": 0.075817,
+      "cumulative_error": 115.151634
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 1065,
+      "strategy": "adaptive_blend",
+      "x": 8,
+      "y": 22,
+      "intensity": 190,
+      "predicted_rgb": [
+        210,
+        190,
+        187
+      ],
+      "reference_rgb": [
+        176,
+        138,
+        124
+      ],
+      "pixel_error": 0.194771,
+      "cumulative_error": 124.266667
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 1141,
+      "strategy": "adaptive_blend",
+      "x": 36,
+      "y": 23,
+      "intensity": 176,
+      "predicted_rgb": [
+        193,
+        177,
+        176
+      ],
+      "reference_rgb": [
+        164,
+        128,
+        115
+      ],
+      "pixel_error": 0.181699,
+      "cumulative_error": 134.304575
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 1217,
+      "strategy": "adaptive_blend",
+      "x": 16,
+      "y": 25,
+      "intensity": 63,
+      "predicted_rgb": [
+        66,
+        71,
+        78
+      ],
+      "reference_rgb": [
+        70,
+        51,
+        44
+      ],
+      "pixel_error": 0.075817,
+      "cumulative_error": 143.431373
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 1293,
+      "strategy": "adaptive_blend",
+      "x": 44,
+      "y": 26,
+      "intensity": 84,
+      "predicted_rgb": [
+        88,
+        90,
+        97
+      ],
+      "reference_rgb": [
+        87,
+        65,
+        57
+      ],
+      "pixel_error": 0.086275,
+      "cumulative_error": 152.854902
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 1369,
+      "strategy": "adaptive_blend",
+      "x": 24,
+      "y": 28,
+      "intensity": 29,
+      "predicted_rgb": [
+        34,
+        39,
+        45
+      ],
+      "reference_rgb": [
+        41,
+        27,
+        23
+      ],
+      "pixel_error": 0.053595,
+      "cumulative_error": 161.755556
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  },
+  {
+    "event_type": "colorized_pixel",
+    "payload": {
+      "pixel_index": 1445,
+      "strategy": "adaptive_blend",
+      "x": 4,
+      "y": 30,
+      "intensity": 225,
+      "predicted_rgb": [
+        239,
+        223,
+        201
+      ],
+      "reference_rgb": [
+        205,
+        162,
+        146
+      ],
+      "pixel_error": 0.196078,
+      "cumulative_error": 170.960784
+    },
+    "created_at": "2026-03-17T23:08:29Z"
+  }
+]

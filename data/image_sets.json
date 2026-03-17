@@ -1,0 +1,62 @@
+[
+  {
+    "image_id": "img_001",
+    "label": "street_evening",
+    "name": "City Street At Dusk",
+    "base_tone": 0.44,
+    "contrast": 0.52,
+    "warmth_bias": 0.76,
+    "texture_strength": 0.35,
+    "description": "Warm neon-like scene with medium contrast.",
+    "tags": [
+      "street",
+      "warm",
+      "demo"
+    ]
+  },
+  {
+    "image_id": "img_002",
+    "label": "forest_morning",
+    "name": "Forest Canopy",
+    "base_tone": 0.57,
+    "contrast": 0.46,
+    "warmth_bias": 0.34,
+    "texture_strength": 0.49,
+    "description": "Cool and green leaning scene with textured gradients.",
+    "tags": [
+      "forest",
+      "cool",
+      "nature"
+    ]
+  },
+  {
+    "image_id": "img_003",
+    "label": "desert_sunrise",
+    "name": "Desert Sunrise",
+    "base_tone": 0.63,
+    "contrast": 0.41,
+    "warmth_bias": 0.88,
+    "texture_strength": 0.22,
+    "description": "Bright warm scene with soft transitions.",
+    "tags": [
+      "desert",
+      "sunrise",
+      "warm"
+    ]
+  },
+  {
+    "image_id": "img_004",
+    "label": "mountain_lake",
+    "name": "Mountain Lake",
+    "base_tone": 0.49,
+    "contrast": 0.58,
+    "warmth_bias": 0.28,
+    "texture_strength": 0.31,
+    "description": "Crisp cool palette with deeper shadows.",
+    "tags": [
+      "mountain",
+      "lake",
+      "cool"
+    ]
+  }
+]

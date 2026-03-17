@@ -1,0 +1,14 @@
+[
+  {
+    "session_id": "20260317_230829",
+    "demo_image_label": "street_evening",
+    "strategy_selected": "adaptive_blend",
+    "strategy_runs": 3,
+    "pixels_processed": 1536,
+    "runtime_points": 60,
+    "elapsed_ms": 3877.3967,
+    "best_strategy": "cool_map",
+    "finished_at": "2026-03-17T23:08:33Z",
+    "run_file": "C:\\Users\\jhase\\OneDrive\\Documents\\Jacob\\Programing\\student-interview-prep\\languages\\python\\beginner-projects\\49-image-colorization-demo\\data\\outputs\\run_20260317_230829.json"
+  }
+]
